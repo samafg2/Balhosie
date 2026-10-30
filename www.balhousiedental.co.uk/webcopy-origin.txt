@@ -1,0 +1,1244 @@
+Uri: http://www.balhousiedental.co.uk/emergency-care/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\emergency-care\index-1.htm
+Content Type: text/html
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/astra-addon/addons/nav-menu/assets/css/minified/magamenu-frontend.min.css?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\astra-addon\addons\nav-menu\assets\css\minified\magamenu-frontend.min-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\astra-addon\assets\js\minified\purify.min-1.js
+Content Type: text/javascript
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\css\all.min-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.woff
+Content Type: font/woff
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.woff
+Content Type: font/woff
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.woff
+Content Type: font/woff
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/tablepress/css/build/default.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\tablepress\css\build\default-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min-1.js
+Content Type: text/javascript
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/css/minified/compatibility/page-builder/bb-plugin.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\css\minified\compatibility\page-builder\bb-plugin.min-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\css\minified\frontend.min-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra-1.svg
+Content Type: image/svg+xml
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra-1.ttf
+Content Type: font/ttf
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra-1.woff
+Content Type: font/woff
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\js\minified\frontend.min-1.js
+Content Type: text/javascript
+
+Uri: http://www.balhousiedental.co.uk/wp-content/themes/tgo-starter/style.css?ver=1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\tgo-starter\style-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.6.11
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: http://www.balhousiedental.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: text/javascript
+
+Uri: http://www.balhousiedental.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\js\jquery\jquery.min-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans:400%2C500%2C700%2C600|Roboto Slab:300&display=swap
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/care-plan/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\care-plan\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/comments/feed/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.balhousiedental.co.uk/emergency-care/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\emergency-care\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/feed/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.balhousiedental.co.uk/fin-us/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\fin-us\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/frequently-asked-questions/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\frequently-asked-questions\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/alana-gow/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\alana-gow\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/alice-rutherford/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\alice-rutherford\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/carrie-duthie/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\carrie-duthie\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/diane-mcgovern/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\diane-mcgovern\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/dianne-hewitt/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\dianne-hewitt\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/gordon-fletcher/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\gordon-fletcher\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/holly-buchanan/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\holly-buchanan\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/james-middleton/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\james-middleton\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/jill-asher/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\jill-asher\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/kerry-fraser/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\kerry-fraser\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/meet-the-team/valerie-stevenson/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\meet-the-team\valerie-stevenson\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/our-prices/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\our-prices\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/privacy-policy/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/privacy-policy/feed/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\privacy-policy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.balhousiedental.co.uk/treatments/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/bridges/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\bridges\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/crowns/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\crowns\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/dentures/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\dentures\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/fillings/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\fillings\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/hygeniest-2/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\hygeniest-2\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/implants/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\implants\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/teeth-whitening/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\teeth-whitening\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/tooth-straightening/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\tooth-straightening\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/treatments/veneers-2/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\treatments\veneers-2\index.htm
+Content Type: text/html
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/astra-addon/addons/nav-menu/assets/css/minified/magamenu-frontend.min.css?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\astra-addon\addons\nav-menu\assets\css\minified\magamenu-frontend.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/astra-addon/assets/js/minified/purify.min.js?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\astra-addon\assets\js\minified\purify.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/css/fl-slideshow.min.css?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\css\fl-slideshow.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/css/yui3.css?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\css\yui3.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\fonts\fontawesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/arrow-next.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\arrow-next.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/arrow-prev.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\arrow-prev.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/arrows-next.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\arrows-next.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/arrows-prev.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\arrows-prev.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/icons-dark.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\icons-dark.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/icons-light.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\icons-light.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/transparent-bg-dark.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\transparent-bg-dark.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/img/slideshow/transparent-bg-light.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\img\slideshow\transparent-bg-light.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/js/fl-slideshow.min.js?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\js\fl-slideshow.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/js/jquery.imagesloaded.min.js?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\js\jquery.imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/js/jquery.waypoints.min.js?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\js\jquery.waypoints.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/bb-plugin/js/yui3.min.js?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\bb-plugin\js\yui3.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/tablepress/css/build/default.css?ver=3.0.4
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\tablepress\css\build\default.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/tablepress/js/jquery.datatables.min.js?ver=3.0.4
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\tablepress\js\jquery.datatables.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/css/minified/compatibility/page-builder/bb-plugin.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\css\minified\compatibility\page-builder\bb-plugin.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: font/woff
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.8.7
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/themes/tgo-starter/style.css?ver=1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\themes\tgo-starter\style.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2021/03/bd-angle.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2021\03\bd-angle.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2021/03/squaresign.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2021\03\squaresign.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-Asset-1BalhousieDental-1-325x70.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\07\cropped-Asset-1BalhousieDental-1-325x70.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-Asset-1BalhousieDental-1.png
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\07\cropped-Asset-1BalhousieDental-1.png
+Content Type: image/png
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-BalhousieDental-Favicon-180x180.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\07\cropped-BalhousieDental-Favicon-180x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-BalhousieDental-Favicon-192x192.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\07\cropped-BalhousieDental-Favicon-192x192.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-BalhousieDental-Favicon-32x32.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\07\cropped-BalhousieDental-Favicon-32x32.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/1-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\1-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/1-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\1-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/10-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\10-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/10-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\10-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/11-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\11-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/11-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\11-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/2-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\2-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/2-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\2-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/3-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\3-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/3-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\3-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/4-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\4-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/4-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\4-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/5-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\5-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/5-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\5-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/6-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\6-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/6-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\6-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/7-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\7-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/7-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\7-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/8-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\8-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/8-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\8-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/9-80-200x300.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\9-80-200x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/9-80.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\9-80.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/dental-slider-1-small-1.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\dental-slider-1-small-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/header-a.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\header-a.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/teamshot1-1024x460.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\teamshot1-1024x460.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/teamshot1-300x135.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\teamshot1-300x135.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/teamshot1-768x345.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\teamshot1-768x345.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/2024/08/teamshot1.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\2024\08\teamshot1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/astra-addon/astra-addon-67d2dbe7bd5790-16590031.css?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\astra-addon\astra-addon-67d2dbe7bd5790-16590031.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/astra-addon/astra-addon-67d2dbe7d62df0-03987981.js?ver=4.9.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\astra-addon\astra-addon-67d2dbe7d62df0-03987981.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1007-layout.css?ver=81fa84069870ce030c8e97720869ee36
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1007-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1007-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1007-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1012-layout.css?ver=d52f88d497c3a38f5cf5cf806c23eac3
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1012-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1012-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1012-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1016-layout.css?ver=a891acde2f5d794531a2504d0b582c4f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1016-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1016-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1016-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1020-layout.css?ver=41a90524e409f83943ca017d1582a07a
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1020-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1020-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1020-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1023-layout.css?ver=8aebe9ce622e41798089c396e3e9e857
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1023-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1023-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1023-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1030-layout.css?ver=b62d6281df19a9445f1b0fff7618390f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1030-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1030-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1030-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1034-layout.css?ver=0324ff40ab41e8ff3608c63462a60853
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1034-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1034-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1034-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1040-layout.css?ver=a5a950ac2f385edf04f9aa8fcad35552
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1040-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1040-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1040-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1058-layout.css?ver=4a6fbadfb1fa6b10018ad4b4338a4f9d
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1058-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1058-layout.js?ver=a432115900b41af972716e2bca61e005
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1058-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1060-layout.css?ver=9664362b84bb6a3ade0ec52e5c263ae2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1060-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1060-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1060-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1062-layout.css?ver=3e41b26629f2152dfe590fd4b4851529
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1062-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1062-layout.js?ver=e7dd334222701c2defa0c60a443c4190
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1062-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1064-layout.css?ver=603c75af4ea5bef921a60737274ff1b0
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1064-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1064-layout.js?ver=93c4c54658eb67d004b08b01b9298e0b
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1064-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1085-layout.css?ver=c3d59f4a7f7cdebe460dec55938ad514
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1085-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1085-layout.js?ver=7626ec6131284cead2fd8e6a11f6e0a1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1085-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1091-layout.css?ver=78b3ca0945d97938d68110404522b057
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1091-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1091-layout.js?ver=a2d37276eee4bd1348efff2db4b66154
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1091-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1095-layout.css?ver=c1de3236967b6a19d6631ea9fe2735e6
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1095-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1095-layout.js?ver=a635dd9cffed214b4e901dd5debd26a9
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1095-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1098-layout.css?ver=f7411acf9773aad3b727ce1dfbb6fe62
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1098-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1098-layout.js?ver=452bcbd2324dc00517749d205034f65a
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1098-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1101-layout.css?ver=5c5a91ac46ba5aac372a54fc8feadd12
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1101-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1101-layout.js?ver=81f720743d8b514875aee883dc67a215
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1101-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1104-layout.css?ver=be7f7bdc84934e6578d1b3ca3b6ae22f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1104-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1104-layout.js?ver=909c13692e41068a35e4ea272f913175
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1104-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1107-layout.css?ver=3aa8a1b6eb091a033336280da34074eb
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1107-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1107-layout.js?ver=d08ab6c6778abd8ca92c2760740d4a0e
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1107-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1110-layout.css?ver=9d56e466f72f2e2b5fc1d89f5fd0ef88
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1110-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1110-layout.js?ver=3169c96f6ca099f40173c7eefafebd9f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1110-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1114-layout.css?ver=5a3c8d30f917b1b701e00022b74add63
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1114-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1114-layout.js?ver=2aec0d389bfdfbe5836f93cce1fbda08
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1114-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1118-layout.css?ver=b2ff76a566ccad149de96b400a8e471a
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1118-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1118-layout.js?ver=5b2b485f38dd1fb105b90c29c1519afb
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1118-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1122-layout.css?ver=e88574937e137d373cbcafb0fc8fd672
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1122-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1122-layout.js?ver=52b66d38fce2d7c2107002dc471f11cf
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1122-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1173-layout.css?ver=b6a8b74d081619d5d06eab26b885438f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1173-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/1173-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\1173-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/16-layout.css?ver=bf6927bab252bc1bef477680a2cf8fe0
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\16-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/16-layout.js?ver=5c5677e0caf8aee40f55a360ab82810f
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\16-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/2440c1ec01c1cdf08ad2917ff4e7cb19-layout-bundle.js?ver=2.8.6.1-1.4.11.2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\2440c1ec01c1cdf08ad2917ff4e7cb19-layout-bundle.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/380161d450c5571262afefa7efcf35f8-layout-bundle.css?ver=2.8.6.1-1.4.11.2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\380161d450c5571262afefa7efcf35f8-layout-bundle.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/41-layout.css?ver=3b25660a37fc19486f65ad72b4ce3090
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\41-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/41-layout.js?ver=877d341cbddcba4d9a8090e993269cec
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\41-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/9479b72c9ba4e4d336423b07e3c69a6c-layout-bundle.css?ver=2.8.6.1-1.4.11.2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\9479b72c9ba4e4d336423b07e3c69a6c-layout-bundle.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/980-layout.css?ver=98462110bf4ccb5de8321479d382f52b
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\980-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/980-layout.js?ver=78de474d19b082e522c84f1e10ec4e67
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\980-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/982-layout.css?ver=f78c025d1dc6e3effd77b2cbfde2dea2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\982-layout.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/982-layout.js?ver=2440c1ec01c1cdf08ad2917ff4e7cb19
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\982-layout.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/9cbeed2483214713a1e32346b3644a52-layout-bundle.js?ver=2.8.6.1-1.4.11.2
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\9cbeed2483214713a1e32346b3644a52-layout-bundle.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/cache/teethcleaningphoto-square-741c9252dc22ea452699ff808e1139f6-9c3rlx6j4p5e.jpg
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\cache\teethcleaningphoto-square-741c9252dc22ea452699ff808e1139f6-9c3rlx6j4p5e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.svg?1ddi1j
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.ttf?1ddi1j
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/icons/ultimate-icons/fonts/Ultimate-Icons.woff?1ddi1j
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\icons\ultimate-icons\fonts\Ultimate-Icons.woff
+Content Type: font/woff
+
+Uri: https://www.balhousiedental.co.uk/wp-content/uploads/bb-plugin/icons/ultimate-icons/style.css?ver=2.8.6.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-content\uploads\bb-plugin\icons\ultimate-icons\style.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.6.11
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.balhousiedental.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://www.balhousiedental.co.uk/wp-json/
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fcare-plan%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fcare-plan%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Femergency-care%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Femergency-care%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ffin-us%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ffin-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ffrequently-asked-questions%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ffrequently-asked-questions%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Falana-gow%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Falana-gow%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Falice-rutherford%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Falice-rutherford%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fcarrie-duthie%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fcarrie-duthie%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fdiane-mcgovern%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fdiane-mcgovern%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fdianne-hewitt%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fdianne-hewitt%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fgordon-fletcher%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fgordon-fletcher%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fholly-buchanan%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fholly-buchanan%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fjames-middleton%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fjames-middleton%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fjill-asher%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fjill-asher%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fkerry-fraser%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fkerry-fraser%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fvalerie-stevenson%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fmeet-the-team%2Fvalerie-stevenson%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Four-prices%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Four-prices%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fbridges%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fbridges%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fcrowns%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fcrowns%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fdentures%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fdentures%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Ffillings%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Ffillings%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fhygeniest-2%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fhygeniest-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fimplants%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fimplants%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fteeth-whitening%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fteeth-whitening%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Ftooth-straightening%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Ftooth-straightening%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fveneers-2%2F
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.balhousiedental.co.uk%2Ftreatments%2Fveneers-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1007
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1007
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1012
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1012
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1016
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1016
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1020
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1020
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1023
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1023
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1030
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1030
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1034
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1034
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1040
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1040
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1058
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1058
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1060
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1060
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1062
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1062
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1064
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1064
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1085
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1085
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1091
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1091
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1095
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1095
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1098
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1098
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1101
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1101
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1104
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1104
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1107
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1107
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1110
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1110
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1114
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1114
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1118
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1118
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1122
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1122
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/1173
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\1173
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/16
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/3
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\3
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/980
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\980
+Content Type: application/json
+
+Uri: https://www.balhousiedental.co.uk/wp-json/wp/v2/pages/982
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\wp-json\wp\v2\pages\982
+Content Type: application/json
+
+Uri: https://www.googletagmanager.com/gtag/js?id=GT-PJSV2P3
+File Name: C:\Downloaded Web Sites\www.balhousiedental.co.uk\gtag\js
+Content Type: application/javascript
+
