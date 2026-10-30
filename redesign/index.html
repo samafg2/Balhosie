@@ -1,17 +1,83 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-GB">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Redesigned website concept for Balhousie Dental.">
-  <title>Balhousie Dental — Website Redesign</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f8f5">
+  <meta name="description" content="Balhousie Dental is an established family dental practice in Perth, Scotland. Discover our approach, treatments and how to find us.">
+  <title>Balhousie Dental | Thoughtful dentistry in Perth</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <main>
-    <h1>Balhousie Dental</h1>
-    <p>Website redesign workspace.</p>
+  <div class="announcement"><span class="announcement-dot"></span> A friendly, established dental practice in the heart of Perth <a href="tel:01738625027">Call us: 01738 625027 <span aria-hidden="true">↗</span></a></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Balhousie Dental home">
+      <img src="../www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-Asset-1BalhousieDental-1-325x70.png" alt="Balhousie Dental">
+    </a>
+    <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false"><span></span><span></span></button>
+    <nav class="main-nav" aria-label="Main navigation">
+      <a href="#approach">Our practice</a><a href="#treatments">Treatments</a><a href="#team">Our team</a><a href="#visit">Find us</a>
+      <a class="nav-cta" href="tel:01738625027">Get in touch <span>↗</span></a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="eyebrow-line"></span> YOUR LOCAL DENTAL PRACTICE · PERTH</div>
+        <h1>Good dentistry.<br><em>Good people.</em><br>A more comfortable visit.</h1>
+        <p class="hero-intro">A welcoming, experienced team who take the time to get to know you. Personal dental care for individuals and families in Perth.</p>
+        <div class="hero-actions"><a class="button button-dark" href="tel:01738625027">Call the practice <span>↗</span></a><a class="text-link" href="#approach">Get to know us <span>↓</span></a></div>
+        <div class="hero-proof"><div class="proof-avatars" aria-hidden="true"><span>B</span><span>D</span><span>+</span></div><p><strong>More than 65 years</strong><br>serving the Perth community</p></div>
+      </div>
+      <div class="hero-visual">
+        <img class="hero-image" src="../www.balhousiedental.co.uk/wp-content/uploads/2024/08/dental-slider-1-small-1.jpg" alt="Inside Balhousie Dental practice" fetchpriority="high">
+        <div class="image-note"><span class="note-icon">✳</span><span><strong>Care that feels personal</strong><small>Continuity, comfort and trust</small></span></div>
+        <div class="vertical-label">BALHOUSIE DENTAL · PERTH, SCOTLAND</div>
+      </div>
+      <div class="hero-bottom"><span>01 / A practice built around people</span><span>SCROLL TO EXPLORE <span class="scroll-arrow">↓</span></span></div>
+    </section>
+
+    <section class="intro-section section-wrap" id="approach">
+      <div class="section-kicker">A DIFFERENT KIND OF DENTAL VISIT</div>
+      <div class="intro-grid">
+        <h2>We believe great care starts with <em>getting to know you.</em></h2>
+        <div class="intro-text"><p>Balhousie Dental has been part of the Perth community for more than 65 years. We believe in familiar faces, thoughtful conversations and care that puts you at ease.</p><p>We value continuity of care and aim for you to see the same dentist at every visit. Because feeling listened to matters.</p><a class="underlined-link" href="#team">Meet the people behind your care <span>↗</span></a></div>
+      </div>
+      <div class="values-row"><div><span>01</span><strong>Personal attention</strong><small>We take time to understand your needs.</small></div><div><span>02</span><strong>Continuity of care</strong><small>Familiar faces at every visit.</small></div><div><span>03</span><strong>A calm welcome</strong><small>A friendly team, here to help.</small></div></div>
+    </section>
+
+    <section class="treatments-section" id="treatments">
+      <div class="section-wrap">
+        <div class="treatments-heading"><div><div class="section-kicker">CARE FOR EVERY SMILE</div><h2>Explore our <em>treatments.</em></h2></div><p>From everyday dental care to options that help you feel more confident in your smile, explore the services available at our practice.</p></div>
+        <div class="treatment-grid">
+          <a class="treatment-card" href="../www.balhousiedental.co.uk/treatments/index.htm"><span class="card-number">01</span><span class="treatment-symbol">＋</span><h3>General dentistry</h3><p>Supporting your oral health with attentive, everyday dental care.</p><span class="card-link">Explore treatments <b>↗</b></span></a>
+          <a class="treatment-card" href="../www.balhousiedental.co.uk/treatments/hygeniest-2/index.htm"><span class="card-number">02</span><span class="treatment-symbol">◌</span><h3>Hygienist</h3><p>Professional cleaning and guidance to help care for your teeth and gums.</p><span class="card-link">Discover hygienist care <b>↗</b></span></a>
+          <a class="treatment-card" href="../www.balhousiedental.co.uk/treatments/tooth-straightening/index.htm"><span class="card-number">03</span><span class="treatment-symbol">⌁</span><h3>Tooth straightening</h3><p>Find out about options for a straighter, more confident smile.</p><span class="card-link">Explore options <b>↗</b></span></a>
+          <a class="treatment-card" href="../www.balhousiedental.co.uk/treatments/teeth-whitening/index.htm"><span class="card-number">04</span><span class="treatment-symbol">✳</span><h3>Teeth whitening</h3><p>Learn more about professional teeth whitening at the practice.</p><span class="card-link">Discover whitening <b>↗</b></span></a>
+          <a class="treatment-card" href="../www.balhousiedental.co.uk/treatments/implants/index.htm"><span class="card-number">05</span><span class="treatment-symbol">◎</span><h3>Dental implants</h3><p>Explore an option for replacing missing teeth.</p><span class="card-link">Learn about implants <b>↗</b></span></a>
+          <a class="treatment-card treatment-card-dark" href="../www.balhousiedental.co.uk/our-prices/index.htm"><span class="card-number">06</span><span class="treatment-symbol">↗</span><h3>Fees &amp; care plan</h3><p>View practice prices and find out about the care plan.</p><span class="card-link">View prices <b>↗</b></span></a>
+        </div>
+        <div class="treatments-foot"><span>Looking for something specific?</span><a class="underlined-link" href="../www.balhousiedental.co.uk/treatments/index.htm">View all treatments <span>↗</span></a></div>
+      </div>
+    </section>
+
+    <section class="team-section section-wrap" id="team">
+      <div class="team-art"><div class="art-circle"></div><div class="art-caption"><span>THE PEOPLE MAKE THE PRACTICE</span><b>Experienced hands.<br>Familiar faces.</b></div></div>
+      <div class="team-copy"><div class="section-kicker">A TEAM YOU CAN GET TO KNOW</div><h2>Experience matters.<br><em>So does kindness.</em></h2><p>Both of our partners have been at the practice for over 17 years, supported by a dedicated dental team. We understand that visiting the dentist can feel daunting, and we do our best to make every visit feel calm, clear and welcoming.</p><a class="button button-outline" href="../www.balhousiedental.co.uk/meet-the-team/index.htm">Meet the team <span>↗</span></a></div>
+    </section>
+
+    <section class="visit-section" id="visit">
+      <div class="section-wrap visit-grid">
+        <div><div class="section-kicker section-kicker-light">WE'RE EASY TO FIND</div><h2>Come and say <em>hello.</em></h2><p>We look forward to welcoming you to Balhousie Dental.</p><a class="button button-light" href="https://www.google.com/maps/search/?api=1&query=10+Balhousie+Street+Perth+PH1+5HJ" target="_blank" rel="noopener">Get directions <span>↗</span></a></div>
+        <div class="visit-details"><div><span class="detail-label">FIND THE PRACTICE</span><strong>10 Balhousie Street<br>Perth, PH1 5HJ</strong><a href="https://www.google.com/maps/search/?api=1&query=10+Balhousie+Street+Perth+PH1+5HJ" target="_blank" rel="noopener">Open in maps ↗</a></div><div><span class="detail-label">CALL OUR TEAM</span><strong>01738 625027</strong><a href="tel:01738625027">Call the practice ↗</a></div></div>
+      </div>
+    </section>
   </main>
+  <footer class="site-footer"><a class="footer-brand" href="#top"><img src="../www.balhousiedental.co.uk/wp-content/uploads/2024/07/cropped-Asset-1BalhousieDental-1-325x70.png" alt="Balhousie Dental"></a><p>Thoughtful dental care, rooted in the Perth community.</p><div class="footer-bottom"><span>© Balhousie Dental · Perth, Scotland</span><span><a href="../www.balhousiedental.co.uk/privacy-policy/index.htm">Privacy policy</a><a href="#top">Back to top ↑</a></span></div></footer>
   <script src="script.js"></script>
 </body>
 </html>
